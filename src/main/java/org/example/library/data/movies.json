@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Wolf of Wall Street",
+    "director": {
+      "name": "Martin",
+      "surname": "Scorsese"
+    },
+    "genre": "Biography",
+    "date": 2013,
+    "actors": [
+      {
+        "name": "Leonardo",
+        "surname": "DiCaprio"
+      },
+      {
+        "name": "Jonah",
+        "surname": "Hill"
+      },
+      {
+        "name": "Margot",
+        "surname": "Robbie"
+      }
+    ]
+  },
+  {
+    "title": "Catch Me If You Can",
+    "director": {
+      "name": "Steven",
+      "surname": "Spielberg"
+    },
+    "genre": "Biography",
+    "date": 2002,
+    "actors": [
+      {
+        "name": "Leonardo",
+        "surname": "DiCaprio"
+      },
+      {
+        "name": "Tom",
+        "surname": "Hanks"
+      }
+    ]
+  },
+  {
+    "title": "The Great Gatsby",
+    "director": {
+      "name": "Baz",
+      "surname": "Luhrmann"
+    },
+    "genre": "Drama",
+    "date": 2013,
+    "actors": [
+      {
+        "name": "Leonardo",
+        "surname": "DiCaprio"
+      },
+      {
+        "name": "Carey",
+        "surname": "Mulligan"
+      }
+    ]
+  },
+  {
+    "title": "Passengers",
+    "director": {
+      "name": "Morden",
+      "surname": "Tyldum"
+    },
+    "genre": "Sci-Fi",
+    "date": 2016,
+    "actors": [
+      {
+        "name": "Chris",
+        "surname": "Pratt"
+      },
+      {
+        "name": "Jennifer",
+        "surname": "Lawrence"
+      }
+    ]
+  }
+]
